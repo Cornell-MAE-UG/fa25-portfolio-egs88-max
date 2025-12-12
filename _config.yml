@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+a# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -8,12 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Eleanor Sheridan
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : Eleanor Sheridan
+description              : Eleanor Sheridan - Projects and CV 
+baseurl                  : "/fa25-portfolio-egs88-max/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
