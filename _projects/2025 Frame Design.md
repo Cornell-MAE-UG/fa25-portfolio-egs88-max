@@ -13,5 +13,5 @@ For a class, we were asked to select a linear actuator from a catalog (image ins
 Here is my work from the assignment:
 
 
-![My Work]({{ "/assets/images/actuator mechanism.pdf" | relative_url }}){: .inline-image-l}
+![My Work]({{ "/assets/images/actuator mechanism.png" | relative_url }}){: .inline-image-l}
 
