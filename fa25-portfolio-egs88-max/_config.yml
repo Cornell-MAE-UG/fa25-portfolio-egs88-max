@@ -5,20 +5,18 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
 # Site Settings
-locale                   : "en-US"
-title                    : Eleanor Sheridan
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : Eleanor Sheridan
-description              : Eleanor Sheridan - Projects and CV 
-baseurl                  : "/fa25-portfolio-egs88-max"
-
+locale: "en-US"
+title: "Eleanor Sheridan"
+title_separator: "-"
+subtitle: # site tagline that appears below site title in masthead
+name: "Eleanor Sheridan"
+description: "Eleanor Sheridan - Projects and CV"
+baseurl: "/fa25-portfolio-egs88-max" # repo name, no trailing slash
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: aqua # light/default, dark, or aqua
+color_scheme: light # light/default, dark, or aqua
 
 sass:
   style: compressed
@@ -43,7 +41,3 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
-
-exclude:
-  - vendor
-  - _site
